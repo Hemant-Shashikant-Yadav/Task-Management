@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "react-scripts build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "buildvercel":"react-scripts build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "axios": "^1.7.8",
